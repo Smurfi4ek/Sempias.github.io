@@ -423,3 +423,8 @@ header {
     display: none;
   }
 }
+@media (width < 480px) {
+  .nav-bar {
+    display: flex;
+  }
+}
